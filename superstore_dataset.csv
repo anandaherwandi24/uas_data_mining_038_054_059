@@ -1,0 +1,100 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,City,Country,Market,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Shipping Cost
+AG-2011-2040,1/1/2011,6/1/2011,Standard Class,TB-11280,Toby Braunhardt,Consumer,Constantine,Algeria,Africa,Africa,OFF-TEN-10000025,Office Supplies,Storage,Tenex Lockers,408.3,2,0,106.14,35.46
+IN-2011-47883,1/1/2011,8/1/2011,Standard Class,JH-15985,Joseph Holt,Consumer,Wagga Wagga,Australia,APAC,Oceania,OFF-SU-10000618,Office Supplies,Supplies,Acme Trimmer,120.366,3,0.1,36.036,9.72
+HU-2011-1220,1/1/2011,5/1/2011,Second Class,AT-735,Annie Thurman,Consumer,Budapest,Hungary,EMEA,EMEA,OFF-TEN-10001585,Office Supplies,Storage,Tenex Box,66.12,4,0,29.64,8.17
+IT-2011-3647632,1/1/2011,5/1/2011,Second Class,EM-14140,Eugene Moren,Home Office,Stockholm,Sweden,EU,North,OFF-PA-10001492,Office Supplies,Paper,Enermax Note Cards,44.865,3,0.5,-26.055,4.82
+IN-2011-47883,1/1/2011,8/1/2011,Standard Class,JH-15985,Joseph Holt,Consumer,Wagga Wagga,Australia,APAC,Oceania,FUR-FU-10003447,Furniture,Furnishings,Eldon Light Bulb,113.67,5,0.1,37.77,4.7
+IN-2011-47883,1/1/2011,8/1/2011,Standard Class,JH-15985,Joseph Holt,Consumer,Wagga Wagga,Australia,APAC,Oceania,OFF-PA-10001968,Office Supplies,Paper,Eaton Computer Printout Paper,55.242,2,0.1,15.342,1.8
+IN-2011-30733,1/2/2011,3/2/2011,Second Class,PO-18865,Patrick O'Donnell,Consumer,Dhaka,Bangladesh,APAC,Central Asia,TEC-CO-10002316,Technology,Copiers,Brother Personal Copier,285.78,2,0,71.4,57.3
+CA-2011-115161,1/2/2011,3/2/2011,First Class,LC-17050,Liz Carlisle,Consumer,Mission Viejo,United States,US,West,FUR-BO-10003966,Furniture,Bookcases,Sauder Facets Collection Library,290.666,2,0.15,3.4196,54.64
+AO-2011-1390,1/2/2011,4/2/2011,Second Class,DK-3150,David Kendrick,Corporate,Luanda,Angola,Africa,Africa,OFF-FEL-10001541,Office Supplies,Storage,Fellowes Lockers,206.4,1,0,92.88,53.08
+ID-2011-56493,1/2/2011,3/2/2011,Second Class,SP-20650,Stephanie Phelps,Corporate,Yingcheng,China,APAC,North Asia,OFF-ST-10002161,Office Supplies,Storage,Tenex Trays,162.72,3,0,68.31,44.36
+IN-2011-36074,1/2/2011,5/2/2011,Second Class,DK-13150,David Kendrick,Corporate,Chongqing,China,APAC,North Asia,OFF-AP-10001254,Office Supplies,Appliances,KitchenAid Coffee Grinder,352.35,5,0,137.4,33.15
+US-2011-118892,1/2/2011,6/2/2011,Standard Class,DH-13075,Dave Hallsten,Corporate,San Miguelito,Panama,LATAM,Central,OFF-AP-10002317,Office Supplies,Appliances,Hamilton Beach Refrigerator,400.704,2,0.4,20.024,21.38
+IR-2011-6550,1/2/2011,6/2/2011,Standard Class,PO-8850,Patrick O'Brill,Consumer,Mashhad,Iran,EMEA,EMEA,FUR-ADV-10002601,Furniture,Furnishings,Advantus Photo Frame,309.6,6,0,148.5,19.65
+ES-2011-5268439,1/2/2011,3/2/2011,Second Class,GH-14485,Gene Hale,Corporate,La Rochelle,France,EU,Central,OFF-AR-10001529,Office Supplies,Art,Binney & Smith Pencil Sharpener,139.65,5,0,15.3,19.23
+IN-2011-30733,1/2/2011,3/2/2011,Second Class,PO-18865,Patrick O'Donnell,Consumer,Dhaka,Bangladesh,APAC,Central Asia,OFF-SU-10000484,Office Supplies,Supplies,Kleencut Rules,40.68,3,0,11.79,11.13
+US-2011-118892,1/2/2011,6/2/2011,Standard Class,DH-13075,Dave Hallsten,Corporate,San Miguelito,Panama,LATAM,Central,TEC-AC-10001221,Technology,Accessories,Memorex Memory Card,81.984,2,0.4,-19.136,6.21
+ES-2011-5460465,1/2/2011,5/2/2011,Standard Class,RR-19315,Ralph Ritter,Consumer,Parma,Italy,EU,South,OFF-AR-10000980,Office Supplies,Art,Sanford Pencil Sharpener,78.3,3,0,20.34,6.03
+IN-2011-30733,1/2/2011,3/2/2011,Second Class,PO-18865,Patrick O'Donnell,Consumer,Dhaka,Bangladesh,APAC,Central Asia,OFF-BI-10003012,Office Supplies,Binders,Wilson Jones Hole Reinforcements,22.65,5,0,9.6,5.29
+IN-2011-30733,1/2/2011,3/2/2011,Second Class,PO-18865,Patrick O'Donnell,Consumer,Dhaka,Bangladesh,APAC,Central Asia,OFF-LA-10001292,Office Supplies,Labels,Smead File Folder Labels,20.34,3,0,9.9,3.78
+ES-2011-5268439,1/2/2011,3/2/2011,Second Class,GH-14485,Gene Hale,Corporate,La Rochelle,France,EU,Central,OFF-EN-10004597,Office Supplies,Envelopes,GlobeWeis Peel and Seal,21.39,1,0,0,3.34
+ES-2011-2205486,1/2/2011,7/2/2011,Standard Class,IM-15055,Ionia McGrath,Consumer,Halle,Germany,EU,Central,OFF-BI-10001249,Office Supplies,Binders,Acco Hole Reinforcements,21.06,3,0,10.53,1.86
+ES-2011-2205486,1/2/2011,7/2/2011,Standard Class,IM-15055,Ionia McGrath,Consumer,Halle,Germany,EU,Central,OFF-BI-10001717,Office Supplies,Binders,Avery Hole Reinforcements,11.82,2,0,4.2,0.93
+US-2011-118892,1/2/2011,6/2/2011,Standard Class,DH-13075,Dave Hallsten,Corporate,San Miguelito,Panama,LATAM,Central,OFF-BI-10000719,Office Supplies,Binders,Wilson Jones Hole Reinforcements,9.576,6,0.4,-0.984,0.81
+CA-2011-1800,1/3/2011,4/3/2011,First Class,TP-11415,Tom Prescott,Consumer,Toronto,Canada,Canada,Canada,OFF-FEL-10001405,Office Supplies,Storage,Fellowes File Cart,551.16,4,0,71.64,164.36
+ES-2011-1705541,1/3/2011,6/3/2011,Standard Class,TS-21370,Todd Sumrall,Corporate,Farnborough,United Kingdom,EU,North,FUR-BO-10000259,Furniture,Bookcases,Safco Classic Bookcase,1314.45,3,0,341.73,150.4
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,TEC-LOG-10003896,Technology,Accessories,Logitech Router,1470.78,6,0,264.6,146.55
+ES-2011-3893444,1/3/2011,5/3/2011,Standard Class,TB-21400,Tom Boeckenhauer,Consumer,Berlin,Germany,EU,Central,OFF-AP-10002568,Office Supplies,Appliances,Hamilton Beach Toaster,364.416,8,0.2,45.456,80.67
+CA-2011-113880,1/3/2011,5/3/2011,Standard Class,VF-21715,Vicky Freymann,Home Office,Elmhurst,United States,US,Central,FUR-CH-10000863,Furniture,Chairs,Novimex Swivel Fabric Task Chair,634.116,6,0.3,-172.1172,70.05
+CA-2011-1800,1/3/2011,4/3/2011,First Class,TP-11415,Tom Prescott,Consumer,Toronto,Canada,Canada,Canada,FUR-HAR-10001792,Furniture,Chairs,Harbour Creations Bag Chairs,246.48,4,0,105.96,65.81
+ES-2011-1705541,1/3/2011,6/3/2011,Standard Class,TS-21370,Todd Sumrall,Corporate,Farnborough,United Kingdom,EU,North,FUR-CH-10002830,Furniture,Chairs,Office Star Rocking Chair,704.55,5,0,288.75,64.4
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,OFF-FEL-10002867,Office Supplies,Storage,Fellowes Lockers,1244.16,6,0,211.5,60.78
+IN-2011-59986,1/3/2011,3/3/2011,First Class,KH-16360,Katherine Hughes,Consumer,Adelaide,Australia,APAC,Oceania,TEC-MA-10002520,Technology,Machines,Panasonic Receipt Printer,214.758,2,0.1,7.158,55.67
+CA-2011-104269,1/3/2011,6/3/2011,Second Class,DB-13060,Dave Brooks,Consumer,Seattle,United States,US,West,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,457.568,2,0.2,51.4764,47.89
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,TEC-SHA-10004874,Technology,Copiers,Sharp Fax Machine,587.7,2,0,123.36,42.88
+CA-2011-168312,1/3/2011,7/3/2011,Standard Class,GW-14605,Giulietta Weimer,Consumer,Houston,United States,US,Central,FUR-TA-10001866,Furniture,Tables,Bevis Round Conference Room Tables and Bases,376.509,3,0.3,-43.0296,32.7
+ES-2011-1705541,1/3/2011,6/3/2011,Standard Class,TS-21370,Todd Sumrall,Corporate,Farnborough,United Kingdom,EU,North,OFF-AR-10004151,Office Supplies,Art,BIC Sketch Pad,194.64,4,0,34.92,25.39
+CA-2011-131009,1/3/2011,5/3/2011,Standard Class,SC-20380,Shahid Collister,Consumer,El Paso,United States,US,Central,FUR-CH-10001270,Furniture,Chairs,Harbour Creations Steel Folding Chair,362.25,6,0.3,0,25.22
+UP-2011-3090,1/3/2011,1/3/2011,Same Day,BS-1800,Bryan Spruell,Home Office,Kherson,Ukraine,EMEA,EMEA,FUR-HON-10002424,Furniture,Chairs,Hon Steel Folding Chair,162.84,2,0,76.5,24.42
+UP-2011-3090,1/3/2011,1/3/2011,Same Day,BS-1800,Bryan Spruell,Home Office,Kherson,Ukraine,EMEA,EMEA,OFF-FEL-10002897,Office Supplies,Storage,Fellowes Shelving,115.74,2,0,30.06,19.52
+CA-2011-1800,1/3/2011,4/3/2011,First Class,TP-11415,Tom Prescott,Consumer,Toronto,Canada,Canada,Canada,TEC-APP-10004912,Technology,Phones,Apple Speaker Phone,493.2,4,0,123.24,18.19
+ES-2011-1517387,1/3/2011,8/3/2011,Standard Class,CM-12235,Chris McAfee,Consumer,Colmar,France,EU,Central,OFF-AR-10001418,Office Supplies,Art,BIC Markers,106.8,4,0,29.88,16.48
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,TEC-KON-10002194,Technology,Machines,Konica Printer,266.25,1,0,79.86,16.22
+IN-2011-56738,1/3/2011,5/3/2011,Standard Class,RF-19345,Randy Ferguson,Corporate,Handa,Japan,APAC,North Asia,FUR-FU-10002210,Furniture,Furnishings,Tenex Clock,351.75,7,0,59.64,15.91
+IN-2011-26946,1/3/2011,6/3/2011,Standard Class,LH-17155,Logan Haushalter,Consumer,Palembang,Indonesia,APAC,Southeast Asia,FUR-CH-10001465,Furniture,Chairs,Hon Swivel Stool,238.929,2,0.27,62.169,15.01
+IN-2011-26946,1/3/2011,6/3/2011,Standard Class,LH-17155,Logan Haushalter,Consumer,Palembang,Indonesia,APAC,Southeast Asia,OFF-EN-10004495,Office Supplies,Envelopes,Kraft Peel and Seal,109.1853,9,0.47,-74.4147,14.58
+ES-2011-2010166,1/3/2011,5/3/2011,Standard Class,LO-17170,Lori Olson,Corporate,Berlin,Germany,EU,Central,TEC-AC-10004791,Technology,Accessories,Belkin Keyboard,151.362,2,0.1,-5.058,14.22
+ID-2011-50144,1/3/2011,5/3/2011,Standard Class,LH-17155,Logan Haushalter,Consumer,Hobart,Australia,APAC,Oceania,TEC-PH-10001619,Technology,Phones,Cisco Signal Booster,91.872,1,0.4,-45.948,13.96
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,FUR-SAF-10004530,Furniture,Bookcases,Safco Floating Shelf Set,196.74,1,0,86.55,12.33
+ES-2011-3893444,1/3/2011,5/3/2011,Standard Class,TB-21400,Tom Boeckenhauer,Consumer,Berlin,Germany,EU,Central,OFF-ST-10000875,Office Supplies,Storage,Smead Shelving,117.504,3,0.2,36.684,11.43
+CA-2011-168312,1/3/2011,7/3/2011,Standard Class,GW-14605,Giulietta Weimer,Consumer,Houston,United States,US,Central,OFF-ST-10003692,Office Supplies,Storage,Recycled Steel Personal File for Hanging File Folders,137.352,3,0.2,8.5845,8.49
+UP-2011-3090,1/3/2011,1/3/2011,Same Day,BS-1800,Bryan Spruell,Home Office,Kherson,Ukraine,EMEA,EMEA,OFF-STA-10000298,Office Supplies,Art,Stanley Canvas,98.94,2,0,15.78,8.42
+ES-2011-3893444,1/3/2011,5/3/2011,Standard Class,TB-21400,Tom Boeckenhauer,Consumer,Berlin,Germany,EU,Central,OFF-ST-10000988,Office Supplies,Storage,Fellowes Folders,63.36,3,0.2,23.76,8.22
+CA-2011-131009,1/3/2011,5/3/2011,Standard Class,SC-20380,Shahid Collister,Consumer,El Paso,United States,US,Central,OFF-ST-10001469,Office Supplies,Storage,Fellowes Bankers Box Recycled Super Stor/Drawer,129.552,3,0.2,-22.6716,8
+CA-2011-131009,1/3/2011,5/3/2011,Standard Class,SC-20380,Shahid Collister,Consumer,El Paso,United States,US,Central,FUR-FU-10001095,Furniture,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,63.552,6,0.6,-34.9536,7.38
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,TEC-STA-10004927,Technology,Machines,StarTech Receipt Printer,221.16,2,0,15.48,6.87
+CA-2011-1800,1/3/2011,4/3/2011,First Class,TP-11415,Tom Prescott,Consumer,Toronto,Canada,Canada,Canada,OFF-ACC-10004692,Office Supplies,Binders,Acco 3-Hole Punch,30.48,1,0,2.73,6.7
+ES-2011-1416586,1/3/2011,4/3/2011,Second Class,EL-13735,Ed Ludwig,Home Office,Bochum,Germany,EU,Central,TEC-MA-10001825,Technology,Machines,Epson Calculator,46.53,1,0,12.54,6.09
+IN-2011-59986,1/3/2011,3/3/2011,First Class,KH-16360,Katherine Hughes,Consumer,Adelaide,Australia,APAC,Oceania,OFF-SU-10001770,Office Supplies,Supplies,Acme Scissors,24.354,1,0.1,8.904,5.44
+ID-2011-50144,1/3/2011,5/3/2011,Standard Class,LH-17155,Logan Haushalter,Consumer,Hobart,Australia,APAC,Oceania,OFF-PA-10000116,Office Supplies,Paper,Xerox Parchment Paper,23.868,3,0.4,-7.632,3.9
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,OFF-ELD-10002578,Office Supplies,Storage,Eldon Box,61.74,6,0,17.82,3.73
+ES-2011-1705541,1/3/2011,6/3/2011,Standard Class,TS-21370,Todd Sumrall,Corporate,Farnborough,United Kingdom,EU,North,OFF-AR-10004884,Office Supplies,Art,Sanford Pens,37.08,3,0,10.35,3.55
+ES-2011-1416586,1/3/2011,4/3/2011,Second Class,EL-13735,Ed Ludwig,Home Office,Bochum,Germany,EU,Central,OFF-AR-10000505,Office Supplies,Art,Binney & Smith Pens,146.52,12,0,0,3.35
+ES-2011-1416586,1/3/2011,4/3/2011,Second Class,EL-13735,Ed Ludwig,Home Office,Bochum,Germany,EU,Central,OFF-ST-10000127,Office Supplies,Storage,Fellowes Shelving,102.438,2,0.1,35.238,3.3
+CA-2011-1800,1/3/2011,4/3/2011,First Class,TP-11415,Tom Prescott,Consumer,Toronto,Canada,Canada,Canada,OFF-OIC-10002161,Office Supplies,Fasteners,OIC Push Pins,12.36,1,0,2.46,3.1
+CA-2011-1800,1/3/2011,4/3/2011,First Class,TP-11415,Tom Prescott,Consumer,Toronto,Canada,Canada,Canada,OFF-HON-10001783,Office Supplies,Labels,Hon Shipping Labels,11.76,1,0,5.64,2.24
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,FUR-NOV-10004962,Furniture,Chairs,Novimex Bag Chairs,48.45,1,0,12.09,2.21
+CA-2011-131009,1/3/2011,5/3/2011,Standard Class,SC-20380,Shahid Collister,Consumer,El Paso,United States,US,Central,OFF-FA-10004395,Office Supplies,Fasteners,Plymouth Boxed Rubber Bands by Plymouth,18.84,5,0.2,-3.5325,2.05
+CA-2011-113880,1/3/2011,5/3/2011,Standard Class,VF-21715,Vicky Freymann,Home Office,Elmhurst,United States,US,Central,OFF-PA-10003036,Office Supplies,Paper,Black Print Carbonless,17.472,3,0.2,5.6784,1.94
+UP-2011-3090,1/3/2011,1/3/2011,Same Day,BS-1800,Bryan Spruell,Home Office,Kherson,Ukraine,EMEA,EMEA,OFF-HON-10000137,Office Supplies,Labels,Hon Round Labels,13.32,2,0,5.46,1.94
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,OFF-TEN-10001585,Office Supplies,Storage,Tenex Box,16.53,1,0,7.41,1.14
+IN-2011-59986,1/3/2011,3/3/2011,First Class,KH-16360,Katherine Hughes,Consumer,Adelaide,Australia,APAC,Oceania,OFF-BI-10004436,Office Supplies,Binders,Acco Hole Reinforcements,12.636,2,0.1,-1.164,1.05
+IN-2011-52146,1/3/2011,5/3/2011,Standard Class,BD-11620,Brian DeCherney,Consumer,Melbourne,Australia,APAC,Oceania,OFF-BI-10000583,Office Supplies,Binders,Wilson Jones Hole Reinforcements,21.546,6,0.1,4.266,1.02
+ES-2011-3227800,1/3/2011,5/3/2011,Standard Class,JF-15490,Jeremy Farry,Consumer,Rome,Italy,EU,South,OFF-BI-10003650,Office Supplies,Binders,Ibico Index Tab,17.82,2,0,3.18,0.97
+UP-2011-3730,1/3/2011,5/3/2011,Standard Class,RD-9900,Ruben Dartt,Consumer,Vinnytsya,Ukraine,EMEA,EMEA,OFF-TEN-10003211,Office Supplies,Storage,Tenex Box,31.14,2,0,14.28,0.81
+NI-2011-190,1/3/2011,6/3/2011,Standard Class,EH-3765,Edward Hooks,Corporate,Kano,Nigeria,Africa,Africa,OFF-HOO-10002386,Office Supplies,Appliances,Hoover Toaster,25.317,1,0.7,-28.713,0.79
+US-2011-143707,1/3/2011,5/3/2011,Standard Class,HR-14770,Hallie Redmond,Home Office,New York City,United States,US,East,TEC-PH-10003655,Technology,Phones,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,5.94,3,0,1.6038,0.42
+IT-2011-3468929,1/4/2011,4/4/2011,First Class,AS-10045,Aaron Smayling,Corporate,Rome,Italy,EU,South,TEC-PH-10003963,Technology,Phones,Apple Signal Booster,496.584,6,0.4,-289.836,122.65
+ES-2011-4237527,1/4/2011,4/4/2011,First Class,BP-11230,Benjamin Patterson,Consumer,Treviso,Italy,EU,South,OFF-BI-10003705,Office Supplies,Binders,Wilson Jones Binding Machine,295.92,6,0,32.4,71.22
+ID-2011-77192,1/4/2011,5/4/2011,Standard Class,RP-19270,Rachel Payne,Corporate,Aew?l-li,South Korea,APAC,North Asia,FUR-BO-10003408,Furniture,Bookcases,Ikea 3-Shelf Cabinet,567.6,5,0.2,0,49.7
+ES-2011-4237527,1/4/2011,4/4/2011,First Class,BP-11230,Benjamin Patterson,Consumer,Treviso,Italy,EU,South,OFF-AR-10000399,Office Supplies,Art,Stanley Canvas,157.95,3,0,69.48,21.83
+US-2011-132899,1/4/2011,5/4/2011,Second Class,JB-15400,Jennifer Braxton,Corporate,Lima,Peru,LATAM,South,TEC-PH-10002871,Technology,Phones,Motorola Audio Dock,138.696,2,0.4,-25.464,20.4
+ID-2011-72096,1/4/2011,5/4/2011,Standard Class,PA-19060,Pete Armstrong,Home Office,Manila,Philippines,APAC,Southeast Asia,OFF-BI-10004651,Office Supplies,Binders,Cardinal Binding Machine,83.691,2,0.15,30.471,17.47
+US-2011-148852,1/4/2011,4/4/2011,Second Class,VP-21760,Victoria Pisteka,Corporate,Arraiján,Panama,LATAM,Central,OFF-AP-10002753,Office Supplies,Appliances,Cuisinart Toaster,85.536,4,0.4,-47.104,11.56
+ES-2011-4237527,1/4/2011,4/4/2011,First Class,BP-11230,Benjamin Patterson,Consumer,Treviso,Italy,EU,South,TEC-AC-10004379,Technology,Accessories,SanDisk Flash Drive,123.12,3,0,50.4,11.19
+US-2011-132899,1/4/2011,5/4/2011,Second Class,JB-15400,Jennifer Braxton,Corporate,Lima,Peru,LATAM,South,TEC-AC-10002760,Technology,Accessories,Memorex Memory Card,80.064,2,0.4,-53.376,7.56
+MX-2011-167773,1/4/2011,5/4/2011,Standard Class,LS-17245,Lynn Smith,Consumer,Bogotá,Colombia,LATAM,South,TEC-AC-10003851,Technology,Accessories,Memorex Keyboard,47.56,1,0,10.92,6
+US-2011-132899,1/4/2011,5/4/2011,Second Class,JB-15400,Jennifer Braxton,Corporate,Lima,Peru,LATAM,South,FUR-CH-10004783,Furniture,Chairs,Novimex Chairmat,67.608,3,0.4,-29.352,5.65
+US-2011-132899,1/4/2011,5/4/2011,Second Class,JB-15400,Jennifer Braxton,Corporate,Lima,Peru,LATAM,South,OFF-ST-10001374,Office Supplies,Storage,Rogers Trays,121.5,5,0.4,-48.6,5.41
+US-2011-132899,1/4/2011,5/4/2011,Second Class,JB-15400,Jennifer Braxton,Corporate,Lima,Peru,LATAM,South,OFF-AR-10001991,Office Supplies,Art,Stanley Markers,44.94,5,0.4,0.74,5.41
+US-2011-132899,1/4/2011,5/4/2011,Second Class,JB-15400,Jennifer Braxton,Corporate,Lima,Peru,LATAM,South,FUR-FU-10003283,Furniture,Furnishings,Rubbermaid Stacking Tray,20.112,2,0.4,-1.688,3.66
+ID-2011-77192,1/4/2011,5/4/2011,Standard Class,RP-19270,Rachel Payne,Corporate,Aew?l-li,South Korea,APAC,North Asia,OFF-ST-10004857,Office Supplies,Storage,Smead Folders,43.8,5,0.5,-13.2,3.05
+US-2011-157021,1/4/2011,6/4/2011,Second Class,KM-16720,Kunst Miller,Consumer,Vallejo,United States,US,West,OFF-LA-10002312,Office Supplies,Labels,Avery 490,29.6,2,0,14.8,3.01
+ID-2011-72096,1/4/2011,5/4/2011,Standard Class,PA-19060,Pete Armstrong,Home Office,Manila,Philippines,APAC,Southeast Asia,OFF-ST-10003319,Office Supplies,Storage,Rogers Box,25.344,2,0.45,-6.036,2.99
+MX-2011-167773,1/4/2011,5/4/2011,Standard Class,LS-17245,Lynn Smith,Consumer,Bogotá,Colombia,LATAM,South,OFF-BI-10000188,Office Supplies,Binders,Cardinal Hole Reinforcements,17.8,5,0,0.5,1.96
+CA-2011-138359,1/4/2011,6/4/2011,Standard Class,KH-16330,Katharine Harms,Corporate,Revere,United States,US,East,OFF-ST-10000636,Office Supplies,Storage,Rogers Profile Extra Capacity Storage Tub,66.96,4,0,2.6784,1.57
+US-2011-148852,1/4/2011,4/4/2011,Second Class,VP-21760,Victoria Pisteka,Corporate,Arraiján,Panama,LATAM,Central,OFF-BI-10004305,Office Supplies,Binders,Cardinal Hole Reinforcements,10.944,4,0.4,-3.136,1.37
+MX-2011-167773,1/4/2011,5/4/2011,Standard Class,LS-17245,Lynn Smith,Consumer,Bogotá,Colombia,LATAM,South,OFF-BI-10002222,Office Supplies,Binders,Cardinal Binder Covers,15.28,2,0,1.96,1.2
+US-2011-157021,1/4/2011,6/4/2011,Second Class,KM-16720,Kunst Miller,Consumer,Vallejo,United States,US,West,OFF-BI-10000042,Office Supplies,Binders,Pressboard Data Binder,17.088,4,0.2,5.5536,0.65
+CA-2011-138359,1/4/2011,6/4/2011,Standard Class,KH-16330,Katharine Harms,Corporate,Revere,United States,US,East,OFF-BI-10000145,Office Supplies,Binders,Zipper Ring Binder Pockets,6.24,2,0,3.0576,0.34
